@@ -25,6 +25,23 @@ The app is built with **Streamlit** for the user interface and trained on a data
 ---
 
 ---
+## ⚙️ Installation & Usage
+
+1. **Clone the repository**
+    ```bash
+    git clone https://github.com/diggum-yaswanth-kumar/flipkart-sales-prediction.git
+    cd flipkart-sales-prediction
+    ```
+
+2. **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the Streamlit app**
+    ```bash
+    streamlit run app.py
+    ```
 
 ## ⚙️ Installation & Usage
 1. **Clone the repository**
